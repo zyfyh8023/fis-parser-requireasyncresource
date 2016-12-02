@@ -1,0 +1,24 @@
+{
+  "name": "fis-parser-requireasyncresource",
+  "version": "2.0.0",
+  "description": "fis-parser-requireasyncresource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyfyh8023/fis-parser-requireasyncresource.git"
+  },
+  "keywords": [
+    "fis",
+    "parser",
+    "requireasyncresource"
+  ],
+  "author": "zyfyh8023",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyfyh8023/fis-parser-requireasyncresource/issues"
+  },
+  "homepage": "https://github.com/zyfyh8023/fis-parser-requireasyncresource#readme"
+}
